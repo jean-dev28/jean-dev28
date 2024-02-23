@@ -41,6 +41,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+![snake game](https://github.com/jean-dev28/jean-dev28/blob/output/github-contribution-grid-snake.svg)
 ## Contatos
 
 <div style="display:flex;gap:.75rem">
