@@ -6,9 +6,7 @@ desenvolvimento Web Full Stack
 ## 👨🏽‍💻 Stacks
 
 <div>
-  <a href="https://git-scm.com" target="_blank" rel="noopener">
-    <img width="50" height="40" alt="Git" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/git.svg" />
-  </a>
+  [<img width="50" height="40" alt="Git" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/git.svg" />](https://git-scm.com){:target="_blank"}
   <img width="50" height="40" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img width="50" height="40" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="50" height="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
