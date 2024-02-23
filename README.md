@@ -1,29 +1,17 @@
-# Bem-Vindo ao meu Perfil, meu nome é Jean e atualmente sou formado pela <a style="text-decoration:none" rel="noreferrer noopener" target="_blank" href="https://github.com/betrybe">Trybe</a> em desenvolvimento Web Full Stack
+# 👋🏽 Olá, sou Jean
 
-## Stacks
+atualmente sou formado pela [Trybe](https://github.com/betrybe) em desenvolvimento Web Full Stack
 
-<style>
-  .container-languages {
-    display: flex;
-    flex-flow: row wrap;
-    gap: 3rem;
-  }
+## 👨🏽‍💻 Stacks
 
-  .container-github-stats {
-    display: flex;
-    flex-flow: row-reverse;
-    gap: 1rem;
-  }
-</style>
-
-<div style="display: flex; flex-flow: row wrap; gap: 3rem">
+<div>
   <img width="50" height="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="50" height="40" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img width="50" height="40" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="50" height="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width="50" height="40" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
   <img width="50" height="45" alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img  width="50" height="45" alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
+  <img width="50" height="45" alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
   <img width="50" height="40" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
   <img width="50" height="40" alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" />
   <img width="50" height="45" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -40,7 +28,7 @@
   <img width="50" height="45" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </div>
 
-##
+## ✨ Status
 
 <div align="end">
   <picture>
@@ -55,7 +43,7 @@
   </picture>
 </div>
 
-##
+<br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jean-dev28/jean-dev28/blob/output/grid-snake-dark.svg" />
@@ -65,11 +53,11 @@
 
 ## Contatos
 
-<div style="display:flex;gap:.75rem">
+<div align="center">
   <a href = "mailto:j_alves_19@hotmail.com">
     <img alt="hotmail" loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/jean-alves27">
-    <img alt="linkedin" loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img alt="LinkedIn" loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
