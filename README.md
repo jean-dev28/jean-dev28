@@ -26,6 +26,8 @@
   <img width="50" height="45" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </div>
 
+##
+
 <div>
   <img alt="Linguagens mais usadas" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&locale=pt-br&layout=compact&theme=holi"/>
   <img alt="github status" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&locale=pt-br&theme=holi"/>
