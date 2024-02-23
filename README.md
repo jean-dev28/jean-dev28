@@ -28,10 +28,17 @@
 
 ##
 
-<div>
-  <img alt="Linguagens mais usadas" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&locale=pt-br&layout=compact&theme=holi"/>
-  <img alt="github status" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&locale=pt-br&theme=holi"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&locale=pt-br&layout=compact&theme=holi"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&locale=pt-br&layout=compact&theme=transparent"/>
+  <img alt="Linguagens mais usadas" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&locale=pt-br&layout=compact&theme=transparent"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&locale=pt-br&theme=holi"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&locale=pt-br&theme=transparent"/>
+  <img alt="github status" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&locale=pt-br&theme=transparent"/>
+</picture>
 
 ##
 
