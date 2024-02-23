@@ -6,7 +6,7 @@ desenvolvimento Web Full Stack
 ## 👨🏽‍💻 Stacks
 
 <div>
-  <a href="https://git-scm.com">
+  <a href="https://git-scm.com" target="_blank">
     <img width="50" height="40" alt="Git" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/git.svg" />
   </a>
   <img width="50" height="40" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
