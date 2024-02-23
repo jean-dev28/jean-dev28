@@ -1,11 +1,14 @@
 # 👋🏽 Olá, sou Jean
 
-atualmente sou formado pela [Trybe](https://github.com/betrybe) em desenvolvimento Web Full Stack
+atualmente sou formado pela [Trybe](https://github.com/betrybe) em
+desenvolvimento Web Full Stack
 
 ## 👨🏽‍💻 Stacks
 
 <div>
-  <img width="50" height="40" alt="Git" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/git.svg" />
+  <a href="https://git-scm.com">
+    <img width="50" height="40" alt="Git" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/git.svg" />
+  </a>
   <img width="50" height="40" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img width="50" height="40" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="50" height="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
