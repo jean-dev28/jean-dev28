@@ -5,29 +5,27 @@ desenvolvimento Web Full Stack
 
 ## 👨🏽‍💻 Stacks
 
-<div>
-  [<img width="50" height="40" alt="Git" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/git.svg" />](https://git-scm.com){:target="_blank"}
-  <img width="50" height="40" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img width="50" height="40" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="50" height="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width="50" height="40" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-  <img width="50" height="45" alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img width="50" height="45" alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
-  <img width="50" height="40" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-  <img width="50" height="40" alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" />
-  <img width="50" height="45" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img width="50" height="40" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img width="50" height="45" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="50" height="45" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="50" height="40" alt="Java Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img width="50" height="45" alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-  <img width="50" height="40" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img width="50" height="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="50" height="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="50" height="40" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img width="50" height="40" alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img width="50" height="45" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-</div>
+[<img width="50" height="40" alt="Git" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/git.svg" />](https://git-scm.com)
+[<img width="50" height="40" alt="Typescript" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/typescript.svg" />](https://www.typescriptlang.org)
+[<img width="50" height="40" alt="Javascript" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/javascript.svg" />](https://www.javascript.com)
+[<img width="50" height="40" alt="React" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/react.svg" />](https://react.dev)
+[<img width="50" height="40" alt="Redux" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/redux.svg" />](https://redux.js.org)
+[<img width="50" height="45" alt="NodeJS" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/nodejs.svg" />](https://nodejs.org)
+[<img width="50" height="45" alt="Sequelize" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/sequelize.svg" />](https://sequelize.org)
+[<img width="50" height="40" alt="Jest" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/jest.svg" />](https://jestjs.io)
+[<img width="50" height="40" alt="Mocha" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/mocha.svg" />](https://mochajs.org)
+[<img width="50" height="45" alt="MySQL" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/mysql.svg" />](https://www.mysql.com)
+[<img width="50" height="40" alt="NextJS" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/nextjs.svg" />](https://nextjs.org)
+[<img width="50" height="45" alt="Python" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/python.svg" />](https://www.python.org)
+[<img width="50" height="45" alt="Java" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/java.svg" />](https://www.java.com)
+[<img width="50" height="40" alt="Java Spring" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/java_spring.svg" />](https://spring.io)
+[<img width="50" height="45" alt="Maven" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/maven.svg" />](https://maven.apache.org)
+[<img width="50" height="40" alt="Docker" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/docker.svg" />](https://www.docker.com)
+[<img width="50" height="40" alt="HTML5" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/html5.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img width="50" height="40" alt="CSS3" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/css3.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img width="50" height="40" alt="Sass" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/sass.svg" />](https://sass-lang.com)
+[<img width="50" height="40" alt="Tailwind" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/tailwind.svg" />](https://tailwindcss.com)
+[<img width="50" height="45" alt="Bash" src="https://github.com/jean-dev28/jean-dev28/blob/main/images/bash.svg" />](https://www.gnu.org/software/bash)
 
 ## ✨ Status
 
