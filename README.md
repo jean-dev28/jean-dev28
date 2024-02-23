@@ -1,8 +1,22 @@
 # Bem-Vindo ao meu Perfil, meu nome é Jean e atualmente sou formado pela <a style="text-decoration:none" rel="noreferrer noopener" target="_blank" href="https://github.com/betrybe">Trybe</a> em desenvolvimento Web Full Stack
 
+<style>
+  .container-languages {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 3rem;
+  }
+
+  .container-github-stats {
+    display: flex;
+    flex-flow: row-reverse;
+    gap: 1rem;
+  }
+</style>
+
 ## Stacks
 
-<div style="display:flex;flex-flow:row wrap;gap:3rem">
+<div class="container-languages">
   <img width="50" height="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="50" height="40" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img width="50" height="40" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -28,7 +42,7 @@
 
 ##
 
-<div style="display:flex;flex-flow:row-reverse;gap:1rem">
+<div class="container-github-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&locale=pt-br&layout=compact&theme=holi"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&locale=pt-br&layout=compact&theme=transparent"/>
