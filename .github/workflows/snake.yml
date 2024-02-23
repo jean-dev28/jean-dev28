@@ -28,6 +28,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           target_branch: main
+          force: true
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
