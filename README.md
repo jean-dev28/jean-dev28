@@ -16,7 +16,7 @@
   }
 </style>
 
-<div id="identifier" class="container-languages">
+<div style="display: flex; flex-flow: row wrap; gap: 3rem">
   <img width="50" height="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="50" height="40" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img width="50" height="40" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -42,7 +42,7 @@
 
 ##
 
-<div id="identifier" class="container-github-stats">
+<div align="end">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&locale=pt-br&layout=compact&theme=holi"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&locale=pt-br&layout=compact&theme=transparent"/>
@@ -57,7 +57,7 @@
 
 ##
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jean-dev28/jean-dev28/blob/output/grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jean-dev28/jean-dev28/blob/output/grid-snake.svg" />
   <img alt="grid snake" src="https://github.com/jean-dev28/jean-dev28/blob/output/grid-snake.svg" />
